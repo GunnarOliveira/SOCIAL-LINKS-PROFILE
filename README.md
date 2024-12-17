@@ -5,6 +5,7 @@ Welcome to the SOCIAL LINKS PROFILE Challenge! This repository contains a soluti
 ## Project Structure 📂
 
 - **`assets/`**: Contains all static assets for the project.
+
   - **`images/`**: Houses the favicon and the main banner image used in the HTML document.
   - **`fonts/`**: Contains files needed to import the Outfit and Young-Serif fonts locally.
 
@@ -22,7 +23,7 @@ Welcome to the SOCIAL LINKS PROFILE Challenge! This repository contains a soluti
 
 ## Preview 👀
 
-![Project Preview](./design/active-states.jpg)
+![Project Preview](./design/preview.png)
 
 ## Getting Started 🚀
 
